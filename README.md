@@ -1,5 +1,14 @@
 # draw-shapes
 
-This program draws shapes with Python as shown below:
+The programs here draw shapes with Python as shown below:
 
-<img style='width: 600px' src="output.png"></img>
+[draw-shapes.py](draw-shapes.py)
+
+<img style='width: 600px' src="assets/shapes.png"></img>
+
+[flower.py](flower.py)
+
+<img style='width: 600px' src="assets/flower.png"></img>
+
+[square-circle.py](square-cicle.py)
+<img style='width: 600px' src="assets/square-circle.png"></img>
