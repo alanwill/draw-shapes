@@ -10,5 +10,6 @@ The programs here draw shapes with Python as shown below:
 
 <img style='width: 600px' src="assets/flower.png"></img>
 
-[square-circle.py](square-cicle.py)
+[square-circle.py](square-circle.py)
+
 <img style='width: 600px' src="assets/square-circle.png"></img>
